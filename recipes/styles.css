@@ -1,0 +1,16 @@
+body{
+    text-align: center;
+    background-color: beige;
+}
+
+ol{
+    text-align: left;
+}
+
+ul{
+    text-align: left;
+}
+#Steps, #Ingredients, #Description{
+    border-style: outset;
+    border-color: black;
+}
